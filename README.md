@@ -7,7 +7,7 @@ ssh jzx@vergil.u.washington.edu
 
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+To access the web page, click My UW Homepage and press login which takes you to the home page.
 
 ### What is this repository for? ###
 
