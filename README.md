@@ -10,7 +10,4 @@ NOTICE: This is an older site, so some of the media links have expired.
 
 
 
-# README #
-
-To access the web page, click My UW Homepage and press login which takes you to the home page.
 
