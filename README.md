@@ -6,9 +6,7 @@ This is a website I've created for BIMD 233: Fundamentals of Web Media Technolog
 ## To access the webpage
 [Link to the Capstone portfolio homepage](http://students.washington.edu/jzx/dashboard.html)
 
-```
-ssh jzx@vergil.u.washington.edu 
-```
+
 
 # README #
 
