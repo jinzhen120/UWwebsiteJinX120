@@ -6,17 +6,17 @@ NOTICE: This is an older site, so some of the media links have expired.
 
  
 ## To access the webpage
-[Capstone portfolio homepage on codepen]([https://codepen.io/jinzhen120/pen/OPJLPJy))
+[Capstone portfolio homepage on codepen](https://codepen.io/jinzhen120/pen/OPJLPJy)
 
-[Capstone portfolio "poster" page on codepen]([https://codepen.io/jinzhen120/pen/GRNVpeZ))
+[Capstone portfolio "poster" page on codepen]([https://codepen.io/jinzhen120/pen/GRNVpeZ)
 
-[Capstone portfolio "illustration" page on codepen]([https://codepen.io/jinzhen120/pen/ExNqxbe))
+[Capstone portfolio "illustration" page on codepen]([https://codepen.io/jinzhen120/pen/ExNqxbe)
 
-[Capstone portfolio "About Capstone" page on codepen]([https://codepen.io/jinzhen120/pen/ZEBNEOj))
+[Capstone portfolio "About Capstone" page on codepen]([https://codepen.io/jinzhen120/pen/ZEBNEOj)
 
-[Capstone portfolio "About this website" page on codepen]([https://codepen.io/jinzhen120/pen/XWNQLrP))
+[Capstone portfolio "About this website" page on codepen]([https://codepen.io/jinzhen120/pen/XWNQLrP)
 
-[Capstone portfolio "contact" page on codepen]([https://codepen.io/jinzhen120/pen/XWNQLwr))
+[Capstone portfolio "contact" page on codepen]([https://codepen.io/jinzhen120/pen/XWNQLwr)
 
 
 
